@@ -1,2 +1,2 @@
 <img width="1115" height="1017" alt="{84E628F7-D819-47EE-A075-B17363CFF290}" src="https://github.com/user-attachments/assets/ed55a149-de4e-4614-9999-50ce9d750ddb" />
-<img width="994" height="553" alt="{F77FFEE7-1E29-413F-BD2D-62E734A9D8E5}" src="https://github.com/user-attachments/assets/1f9dfc86-d37f-4e68-8d48-a4316896c0cf" />
+CPU: 1 processor, AMD64 Family 25 Model 68 Stepping 1 AuthenticAMD ~2635 MHz. (The exact number of cores is not displayed in this output).   Memory: 15,677 MB Total Physical Memory.   Storage: 477 GB.Operating system: Microsoft Windows 11 Pro, version 10.0.26200.   Virtualisation: Not visible in the provided command output snippet. 
